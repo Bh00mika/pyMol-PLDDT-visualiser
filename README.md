@@ -65,4 +65,5 @@ Since the full color bar is not specified in the ColabFold notebooks, the interp
 
 ## Inspiration
 
-This script is a modified version of the color by sequence conservation output script generated from [ConSurf](https://consurf.tau.ac.il).
+This script is a modified version of the color by sequence conservation output script generated from ailienamaggiolo
+and [ConSurf](https://consurf.tau.ac.il).
